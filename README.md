@@ -1,4 +1,7 @@
-dropbox-remote-upload
+Dropbox Remote Upload
 =====================
 
-This script is for remotely uploading large files from remote url to dropbox. Requirements: php environment with curl enabled. 
+This script is for remotely uploading large files from remote url to dropbox. 
+
+Requirements: 
+php environment with curl enabled. 
